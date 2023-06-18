@@ -1,21 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
 	xmlns:dc="http://purl.org/dc/elements/1.1/"
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	>
+
 <channel>
-	<title>
-	Comments for Mosam Khan	</title>
+	<title>Mosam Khan</title>
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
-	<link>./../../index.html</link>
+	<link>./../index.html</link>
 	<description>Certified IBM Data Analyst</description>
-	<lastBuildDate>Sun, 18 Jun 2023 17:32:37 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 18 Jun 2023 19:25:12 +0000</lastBuildDate>
+	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.2.2</generator>
+
+<image>
+	<url>./../wp-content/uploads/2023/05/cropped-Picsart_23-05-26_20-04-01-499-e1685116016608-32x32.jpg</url>
+	<title>Mosam Khan</title>
+	<link>./../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 </channel>
 </rss>
